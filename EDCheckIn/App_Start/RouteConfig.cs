@@ -16,7 +16,7 @@ namespace EDCheckIn
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "InEd", action = "Start", id = UrlParameter.Optional }
+                defaults: new { controller = "InEd", action = "CanMove", id = UrlParameter.Optional }
             );
         }
     }

@@ -36,8 +36,11 @@
         @RenderSection("SPAViews", required: false)
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Team KADD</p
+            <p>&copy; @DateTime.Now.Year - Team KADD</p>
         </footer>
+        <div  class="alert alert-info mobile-warning">
+            This app is optimised for mobile - it will look better on your phone!
+        </div>
     </div>
 
     @Scripts.Render("~/bundles/jquery")

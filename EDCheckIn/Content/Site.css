@@ -41,7 +41,7 @@ textarea {
 
 #map {
     height: 300px;
-    width: 260px;
+    width: 100%;
 }
 
 #floating-panel {
@@ -58,3 +58,9 @@ textarea {
     padding-left: 10px;
 }
 h1 { font-size: 10px;}
+
+@media only screen and (max-width: 1200px) {
+    .mobile-warning {
+        display: none;
+    }
+}

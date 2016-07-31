@@ -232,11 +232,15 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\gp.xml" />
     <Content Include="Content\img\Directions.png" />
     <Content Include="Content\img\Hospital.png" />
     <Content Include="Content\img\logo.png" />
+    <Content Include="Content\img\medical-1.png" />
+    <Content Include="Content\img\medical.png" />
     <Content Include="Content\img\MedicalCentres.png" />
     <Content Include="Content\img\Outline-body.png" />
+    <Content Include="Content\img\pegasus_marker.png" />
     <Content Include="Content\Site.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

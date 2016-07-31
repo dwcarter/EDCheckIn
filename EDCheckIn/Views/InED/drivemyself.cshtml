@@ -15,10 +15,15 @@
     </select>
     <br />
 </div>
-<input type="checkbox" id="roadworks" value="Yes" checked> show road works <br />
-<p id="tt"> travel time: </p>
-   
-<div id="map"></div>
+<label><input type="checkbox" id="roadworks" value="yes"> Show road works</label> <br />
+<p id="tt"> Travel time: </p>
+
+<div class="row">
+    <div class="col-md-12">
+        <div id="map"></div>        
+    </div>
+</div>
+
 <p>We'll let the centre know you're on your way.</p>
 <a class="btn btn-lg btn-primary" href="/ined/medicalcentreconfirmation">Confirm</a>
 
@@ -33,8 +38,8 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
           end = {lat: -43.540924 , lng: 172.6397697};
         }
       if (document.getElementById('roadworks').checked) {
-        map.data.loadGeoJson('http://localhost/d.geojson');
-        //map.data.loadGeoJson('http://api.tmpforchch.co.nz/v3/tmps?key=govhack2016&format=geojson&limit=10');
+        //map.data.loadGeoJson('http://localhost/d.geojson');
+        map.data.loadGeoJson('http://api.tmpforchch.co.nz/v3/tmps?key=govhack2016&format=geojson&limit=50');
       } else {
         map.data.forEach(function (feature) {
           map.data.remove(feature);
@@ -51,7 +56,7 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
           } else {
             window.alert('Directions request failed due to ' + status);
           }
-          //document.getElementById('tt').innerHTML = "travel time: " + directionsDisplay.directions.routes[0].legs[0].duration.text;
+          document.getElementById('tt').innerHTML = "travel time: " + directionsDisplay.directions.routes[0].legs[0].duration.text;
 
         });
       }
@@ -127,10 +132,10 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
       trafficLayer.setMap(map);
 
       //      // NOTE: This uses cross-domain XHR, and may not work on older browsers.
-      //if (document.getElementById('roadworks').checked) {
+      if (document.getElementById('roadworks').checked) {
         //map.data.loadGeoJson('http://localhost/d.geojson');
-     // map.data.loadGeoJson('http://api.tmpforchch.co.nz/v3/tmps?key=govhack2016&format=geojson&limit=10');
-      //}
+        map.data.loadGeoJson('http://api.tmpforchch.co.nz/v3/tmps?key=govhack2016&format=geojson&limit=50');
+      }
     
 
 
@@ -145,7 +150,6 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
           }
       });
 
-      //marker.setMap(map);
 
       marker.addListener('click', function() {
           infowindow.open(map, marker);
@@ -162,7 +166,6 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
           }
       });
 
-      //marker.setMap(map);
 
       marker24.addListener('click', function() {
           infowindow24.open(map, marker24);
@@ -180,14 +183,11 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
           }
       });
 
-//marker.setMap(map);
 
         markerMH.addListener('click', function() {
             infowindowMH.open(map, markerMH);
          });
     infowindowMH.open(map, markerMH);
-    //infowindow24.open(map, marker24);
-     //infowindow.open(map, marker);
 
      calculateAndDisplayRoute(directionsService, directionsDisplay);
     }

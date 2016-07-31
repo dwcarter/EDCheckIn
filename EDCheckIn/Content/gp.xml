@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<markers>
+		<limited>0</limited>
+		<marker>
+			<name>Amberley Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>6 Hilton Drive</address>
+			<lat>-43.5454829</lat>
+			<lng>172.5259832</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 314 8504</phone>
+			<url>http://www.amberleymc.co.nz/</url>
+			<email>admin@amberleymc.co.nz; denise@amberleymc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Amyes Road Surgery</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>7 Amyes Road</address>
+			<lat>-43.5454829</lat>
+			<lng>172.5259832</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 349 8263</phone>
+			<url>http://www.amyesroadsurgery.co.nz/</url>
+			<email>sandy@amyesrd.pegasus.net.nz; administration@amyesrd.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Avonhead Surgery (Davey)</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>182 Withells Road, Avonhead, Christchurch 5042</address>
+			<lat>-43.5129766</lat>
+			<lng>172.5553206</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 358 3300</phone>
+			<url>http://www.avonheadsurgery.co.nz/</url>
+			<email>ruth@avonheadsurg.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Avonhead Surgery (Shand)</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>182 Withells Road</address>
+			<lat>-43.51292</lat>
+			<lng>172.555317</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 358 3300</phone>
+			<url>http://www.avonheadsurgery.co.nz/</url>
+			<email>reception@avonhead.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Barrington Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>14-18 Athelstan Street</address>
+			<lat>-43.5571217</lat>
+			<lng>172.6195649</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 332 3069</phone>
+			<url>http://www.barringtonmc.co.nz/</url>
+			<email>susand@barringtonmc.co.nz; claireh@barringtonmc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Belfast Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>8 Richill Street</address>
+			<lat>-43.4454136</lat>
+			<lng>172.6332546</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 323 8063</phone>
+			<url>http://www.belfastmedicalcentre.com</url>
+			<email>admin@belfast.pegasus.net.nz; amy.shaw@belfast.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Belfast North MEDIQUAL Doctors</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>Unit 3B, 812 Main North Road</address>
+			<lat>-43.4446864</lat>
+			<lng>172.6328776</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 323 6789</phone>
+			<url>http://www.mediqual.co.nz/</url>
+			<email>reception@bnmediqual.pegasus.net.nz; lizanned@bnmediqual.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Bishopdale Medical Clinic</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>1 Eastling Street</address>
+			<lat>-43.4900939</lat>
+			<lng>172.5880266</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 359 8591</phone>
+			<url>http://www.bishopdalemc.co.nz/</url>
+			<email>reception@bishopdalemc.pegasus.net.nz; heather.earl@bishopdalemc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Bryndwr Medical Rooms</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>241 Clyde 241 Clyde Road, Bryndwr, Christchurch, 8053</address>
+			<lat>-43.509191</lat>
+			<lng>172.5904682</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 351 8169</phone>
+			<url>http://www.bryndwrmedicalrooms.co.nz/</url>
+			<email>rose@bryndwrmr.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Burnside Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>368 Wairakei Road</address>
+			<lat>-43.496356</lat>
+			<lng>172.578878</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 359 9974</phone>
+			<url>http://www.chchpho.org.nz/provider-burnside.php</url>
+			<email>burnside_reception@xtra.co.nz; maree@burnside.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Casebrook Surgery</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>12 Grampian Street</address>
+			<lat>-43.4804596</lat>
+			<lng>172.603267</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 359 4549</phone>
+			<url>http://www.casebrooksurgery.co.nz/</url>
+			<email>info@casebrooksurgery.pegasus.net.nz; doctor@casebrooksurgery.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Cashmere Health </name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>4 Colombo Street</address>
+			<lat>-43.567101</lat>
+			<lng>172.6352741</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 332 1351</phone>
+			<url>http://www.cashmerehealth.co.nz/</url>
+			<email>reception@cashmere.pegasus.net.nz; liz@cashmere.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Cashmere Medical Practice</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>215 Ashgrove Terrace, Somerfield</address>
+			<lat>-43.5669146</lat>
+			<lng>172.6293387</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 337 0220</phone>
+			<url>http://www.cashmeremedical.co.nz/</url>
+			<email>reception@cashmeremed.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Christchurch South Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>163 Colombo Street, Sydenham, Christchurch</address>
+			<lat>-43.5562922</lat>
+			<lng>172.6365014</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 332 0108</phone>
+			<url>http://www.cshc.co.nz/</url>
+			<email>manager@cshc.co.nz; margaret.bayliss@cshc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Cranford Street Medical Practice</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>189 Cranford Street, St Albans, Christchurch, 8014</address>
+			<lat>-43.50501</lat>
+			<lng>172.6346032</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 9657</phone>
+			<url>http://www.cranfordstreetmedical.co.nz/</url>
+			<email>reception@cranford.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[French - Français]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Darfield Medical Centre Limited</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>159 Horndon Street</address>
+			<lat>-43.4889966</lat>
+			<lng>172.1158034</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 318 8511</phone>
+			<url>http://www.darfieldmc.co.nz/</url>
+			<email>admin@dmc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Dutch – Nederlands]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Diamond Harbour Surgery</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>2C Waipapa Avenue&amp;#10;</address>
+			<lat>-43.6264563</lat>
+			<lng>172.7398977</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 329 4402</phone>
+			<url>http://www.diamondmed.co.nz</url>
+			<email>nurse@diamondmed.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Doctors on Cashel</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>7 Cashel Street</address>
+			<lat>-43.5329398</lat>
+			<lng>172.628299</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 366 2578</phone>
+			<url>http://www.doctorsoncashel.co.nz/</url>
+			<email>admin@drsoncashel.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[German,Deutsch,Hindi]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Doctors on Riccarton</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>183 Riccarton Road </address>
+			<lat>-43.5305508</lat>
+			<lng>172.5927092</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 348 8989</phone>
+			<url>http://www.doctorsonriccarton.co.nz/</url>
+			<email>admin@drsriccarton.pegasus.net.nz; marina@drsriccarton.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Korean,Mandarin - 官話/官话,Cantonese - 粵語 / 粤语]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Durham Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>15 Durham Street</address>
+			<lat>-43.3025725</lat>
+			<lng>172.5915832</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 313 4659</phone>
+			<url>http://durhamhealth.co.nz/</url>
+			<email>sue@durhamhealth.co.nz; claire@durhamhealth.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Eastcare Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>283 Breezes Road</address>
+			<lat>-43.5164517</lat>
+			<lng>172.7013627</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 388 8800</phone>
+			<url>http://www.eastcarehealth.co.nz/</url>
+			<email>reception@eastcare.pegasus.net.nz; admin@eastcare.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Fendalton Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>10 Otara Street, Fendalton, Christchurch, 8053</address>
+			<lat>-43.5177778</lat>
+			<lng>172.5871232</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 351 5165</phone>
+			<url>http://www.fendaltonmc.co.nz/</url>
+			<email>reception@fendaltonmc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Ferry Road Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>276 Ferry Road, Waltham, Christchurch 8011</address>
+			<lat>-43.5411904</lat>
+			<lng>172.660294</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 381 0551</phone>
+			<url>http://www.ferryroadmc.co.nz/</url>
+			<email>admin@ferryrd.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Ferrymead Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>10/2 Waterman Place, Ferrymead, Christchurch, 8023</address>
+			<lat>-43.5577035</lat>
+			<lng>172.7050984</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 384 5484</phone>
+			<url>http://www.ferrymeadmc.co.nz/</url>
+			<email>office@ferrymead.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[German,Deutsch]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Golf Links Road Family Doctors</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>26 Golf Links Road</address>
+			<lat>-43.5061193</lat>
+			<lng>172.665534</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 385 3747</phone>
+			<url>http://www.golflinksroaddoctors.co.nz/</url>
+			<email>golflinksroadfamilydoctors@gmail.com</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Good Street Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>17 Good Street </address>
+			<lat>-43.3020205</lat>
+			<lng>172.5940202</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 313 8262</phone>
+			<url>http://www.rcpho.org.nz/practices/good-st-medical-centre/</url>
+			<email>admin@gsmc.co.nz; prw@gsmc.co.nz; tferris@gsmc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Grahams Road Medical Practice</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>76 Grahams Road </address>
+			<lat>-43.5141699</lat>
+			<lng>172.6743881</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 358 3526</phone>
+			<url>http://www.grahamsroadsurgery.co.nz/</url>
+			<email>reception@grahamsrd.pegasus.net.nz; admin@grahamsrd.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话,Cantonese - 粵語 / 粤语]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Greers Road Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>285 Greers Road, bishopdale, christchurch</address>
+			<lat>-43.4986271</lat>
+			<lng>172.5864835</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 359 8119</phone>
+			<url>http://www.greersroad.co.nz/</url>
+			<email>office@greersmed.co.nz; reception@greersmed.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Halswellhealth</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>36 Ensign Street</address>
+			<lat>-43.5743749</lat>
+			<lng>172.5681421</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 322 8121</phone>
+			<url>http://www.halswellhealth.co.nz/</url>
+			<email>accounts@halswellmc.pegasus.net.nz; pm@halswellmc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Halswellhealth at Longhurst Health Building</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>53 Caulfield Ave, Halswell</address>
+			<lat>-43.579805</lat>
+			<lng>172.5494365</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 322 8121</phone>
+			<url>http://www.halswellhealth.co.nz/</url>
+			<email></email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Harewood Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>171 Harewood Road</address>
+			<lat>-43.4915089</lat>
+			<lng>172.5949317</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 352 8647</phone>
+			<url>http://www.harewoodmc.co.nz/</url>
+			<email>administration@harewood.pegasus.net.nz; reception@harewood.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Afrikaans]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Health &amp; Sport Central</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>591 Colombo Street</address>
+			<lat>-43.5365425</lat>
+			<lng>172.6364171</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 366 0088</phone>
+			<url>http://www.healthandsportcentral.co.nz/</url>
+			<email>info@healthandsportcentral.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Hei Hei Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>18 Wycola Avenue, Hei Hei, Christchurch 8042</address>
+			<lat>-43.535724</lat>
+			<lng>172.5213981</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 344 3274</phone>
+			<url>http://www.heiheihealth.co.nz/</url>
+			<email>reception@heihei.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Helios Health Ltd</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>275 Fifield Terrace, St Martins, Christchurch 8023</address>
+			<lat>-43.5596263</lat>
+			<lng>172.6574919</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 332 5702</phone>
+			<url>http://www.helios.org.nz/</url>
+			<email>reception@helios.pegasus.net.nz; linley.joplin@helios.pegasus.net.nz; sharon.vercoe@helios.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Spanish]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>High Street City Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>62 Riccarton Road, Christchurch, 8011</address>
+			<lat>-43.5289709</lat>
+			<lng>172.6052069</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 341 8780</phone>
+			<url>http://www.highstreetmedicalcentre.co.nz/</url>
+			<email>sue@cityhealth.org.nz; doctors@cityhealth.org.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Hillmed Health Ltd</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>1/7 Haswell Road, Christchurch, 8025</address>
+			<lat>-43.554473</lat>
+			<lng>172.594421</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 338 8655</phone>
+			<url>http://www.hillmedhealth.co.nz</url>
+			<email>reception@hillmorton.pegasus.net.nz; allan@hillmorton.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Hoon Hay Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>124 Sparks Road</address>
+			<lat>-43.5661365</lat>
+			<lng>172.6042172</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 338 8179</phone>
+			<url>http://www.hoonhaymc.co.nz/</url>
+			<email>reception@hoonhaymc.pegasus.net.nz; adrienne@hoonhaymc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Hornby Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>15 Brynley Street </address>
+			<lat>-43.5443244</lat>
+			<lng>172.5288621</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 349 7348</phone>
+			<url>http://www.hornbymc.co.nz/</url>
+			<email>reception@hornbymc.co.nz; staff@hornbymc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Ilam Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>106 Memorial Avenue, Burnside, Christchurch</address>
+			<lat>-43.5122462</lat>
+			<lng>172.5807189</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 351 6198</phone>
+			<url>http://www.ilammc.co.nz/</url>
+			<email>sonja@ilam.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Cantonese - 粵語 / 粤语]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Innes Road Medical Rooms</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>217 Innes Road </address>
+			<lat>-43.5019888</lat>
+			<lng>172.6332087</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 8350</phone>
+			<url>http://www.innesroadmc.co.nz/</url>
+			<email>reception@innesrd.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kaiapoi Family Doctors - Fairhall</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>42 Charles Street</address>
+			<lat>-43.381302</lat>
+			<lng>172.658203</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 327 7167</phone>
+			<url>http://www.rcpho.org.nz/practices/kaiapoi-family-doctors/</url>
+			<email>gcfairhall@xtra.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kaiapoi Family Doctors - Page</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>42 Charles Street</address>
+			<lat>-43.38135</lat>
+			<lng>172.658241</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 327 7474</phone>
+			<url>http://www.rcpho.org.nz/practices/kaiapoi-family-doctors/</url>
+			<email>dr.wlpage@xtra.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kaiapoi Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>69 Fuller Street</address>
+			<lat>-43.3851146</lat>
+			<lng>172.6553943</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 327 5115</phone>
+			<url>http://www.kaiapoimedicalcentre.co.nz/</url>
+			<email>rmc.kmc@xtra.co.nz; kmc.kmc@xtra.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[German,Deutsch,Italian - Italiano]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kaiapoi-Kaye Buchan Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>164 Williams Street</address>
+			<lat>-43.383545</lat>
+			<lng>172.657709</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 327 2622</phone>
+			<url>http://www.rcpho.org.nz/practices/kaye-buchan-medical-centre/</url>
+			<email>kbuchan@xtra.co.nz; kbuchanmanager@xtra.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话,German,Deutsch]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>KaikouraHealthcare</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>25 Deal Street, Kaikoura 7300 </address>
+			<lat>-42.4045962</lat>
+			<lng>173.681564</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 319 3500</phone>
+			<url></url>
+			<email>wendyc@kaikourahc.co.nz; admin@kaikourahc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[French - Français,Dutch – Nederlands,Spanish,Maori]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kendal Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>66 Kendal Avenue </address>
+			<lat>-43.497794</lat>
+			<lng>172.5726799</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 358 8266</phone>
+			<url>hhtp://www.kendal.co.nz</url>
+			<email>julie@kendal.pegasus.net.nz; sharon@kendal.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Kingdom Clinic</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>413 Cashel Street, Linwood, Christchurch 8011</address>
+			<lat>-43.532775</lat>
+			<lng>172.6554499</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 982 0168</phone>
+			<url>http://www.kingdomclinic.co.nz/</url>
+			<email>reception@kingdom.pegasus.net.nz; ina.paul@kingdom.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Leeston Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>57-59 High Street </address>
+			<lat>-43.7613679</lat>
+			<lng>172.2994522</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 324 3850</phone>
+			<url>http://www.leestonmc.co.nz/</url>
+			<email>admin@leestonmed.pegasus.net.nz; anne@leestonmed.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Lincoln Medical Limited</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>Market Square</address>
+			<lat>-43.6404562</lat>
+			<lng>172.4852213</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 325 2411</phone>
+			<url>http://www.lincolnmc.co.nz/</url>
+			<email>admin@lincolnmedical.co.nz; isabelle_s@sipm.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Lincoln University Student Health &amp; Support</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>Ellesmere Junction Rd</address>
+			<lat>-43.642276</lat>
+			<lng>172.4680846</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 325 3835</phone>
+			<url>http://www.lincoln.ac.nz/Services-facilities-and-support/Health-and-Support/</url>
+			<email>doreen.lassen@lincoln.ac.nz; geoff.stephens@lincoln.ac.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[French - Français]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Linwood Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>Level 1, Eastgate Mall, 20 Buckleys Road, Linwood, Christchurch, 8062</address>
+			<lat>-43.5332087</lat>
+			<lng>172.6740016</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 389 2550</phone>
+			<url>http://www.linwoodmc.co.nz/</url>
+			<email>reception@linwood.pegasus.net.nz; Irene.burke@linwood.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Lyttelton Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>18 Oxford Street, Lyttleton, 8082</address>
+			<lat>-43.6034609</lat>
+			<lng>172.7225699</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 328 7309</phone>
+			<url>http://www.lytteltonhealthcentre.co.nz/</url>
+			<email>reception@lyttelton.pegasus.net.nz; office@lyttelton.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Main North Road Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>102 Main North Road</address>
+			<lat>-43.4913854</lat>
+			<lng>172.6129703</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 352 6152</phone>
+			<url>http://www.mainnorthroadmc.co.nz/</url>
+			<email>reception@mnr.pegasus.net.nz; pm@mnr.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Mairehau Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>399 Innes Road </address>
+			<lat>-43.4983045</lat>
+			<lng>172.6406567</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 385 1935</phone>
+			<url>http://www.mairehaumc.co.nz/</url>
+			<email>dianne@mairehau.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Mansfield Health Practice</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>206 Papanui Road, Merivale, Christchurch, 8014</address>
+			<lat>-43.5115301</lat>
+			<lng>172.6215875</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 2344</phone>
+			<url>http://www.mansfieldhealth.co.nz/</url>
+			<email>administrator@mansfieldhp.pegasus.net.nz; chyett@mansfieldhp.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Marshlands Family Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>427 Marshland Road, Marshland, Christchurch 8083 Entrance off Prestons Road</address>
+			<lat>-43.474761</lat>
+			<lng>172.659241</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 385 3114</phone>
+			<url>http://www.marshlandsfamilyhealth.co.nz/</url>
+			<email>admin@marshlands.pegasus.net.nz; bernice@marshlands.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Medical Corner Doctors</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>237 High Street </address>
+			<lat>-43.3038926</lat>
+			<lng>172.5920464</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 313 7877</phone>
+			<url>http://www.medicalcorner.co.nz/</url>
+			<email>practicemanager@medicalcorner.co.nz; admin@medicalcorner.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话,Malay/Indonesian]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>MenzMedical</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>155 Kilmore Street</address>
+			<lat>-43.5263504</lat>
+			<lng>172.6386968</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 981 8181</phone>
+			<url>http://www.menzmedical.co.nz/</url>
+			<email>chris.field.menz@gmail.com; menzmedical@gmail.com</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Merivale Medical Practice</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>236 Papanui Road</address>
+			<lat>-43.5132281</lat>
+			<lng>172.6229239</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 7262</phone>
+			<url>http://www.merivalevillagemc.co.nz/</url>
+			<email>office@merivalem.pegasus.net.nz; chris@merivalem.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Merivale Village Medical Care</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>174 Papanui Road</address>
+			<lat>-43.5132281</lat>
+			<lng>172.6229239</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 8283</phone>
+			<url>http://www.merivalevillagemc.co.nz/</url>
+			<email>mvmc@merivillage.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Methven Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>The Square, Methven 7730, New Zealand</address>
+			<lat>-43.6345197</lat>
+			<lng>171.6514456</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 302 8105</phone>
+			<url></url>
+			<email>desk.mmc@methvenmedical.co.nz; drgayle.mmc@methvenmedical.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Japanese -  日本語]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Mt Pleasant Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>2 Soleares Avenue</address>
+			<lat>-43.5586367</lat>
+			<lng>172.7244157</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 373 6077</phone>
+			<url>http://www.mtpleasantmc.co.nz/</url>
+			<email>reception@mtpleasantmc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>New Brighton Health Care</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>22 Union Street</address>
+			<lat>-43.509067</lat>
+			<lng>172.727449</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 388 7582</phone>
+			<url>http://www.newbrightonmc.co.nz/</url>
+			<email>reception@nbhc.pegasus.net.nz; sallyc@nbhc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Spanish,Romanian - Română]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Normans Road Surgery</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>3 Normans Road, Elmwood, Christchurch, 8052</address>
+			<lat>-43.5028235</lat>
+			<lng>172.6240329</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 8262</phone>
+			<url>http://www.normansroadmc.co.nz/</url>
+			<email>yvonne@normansrd.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>North Avon Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>32 North Avon Road</address>
+			<lat>-43.5178238</lat>
+			<lng>172.6541052</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 389 6655</phone>
+			<url>http://www.northavonmc.co.nz/</url>
+			<email>moeaa@nthavon.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Opawa Surgery</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>122 Opawa Road </address>
+			<lat>-43.5530482</lat>
+			<lng>172.6642644</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 332 7366</phone>
+			<url>http://www.opawasurgery.co.nz/</url>
+			<email>janiceb@opawas.pegasus.net.nz; reception@opawas.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Oxford Community Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>39 Park Ave, Oxford, 7430</address>
+			<lat>-43.302276</lat>
+			<lng>172.1916123</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 312 4195</phone>
+			<url>http://www.oxfordhealth.co.nz</url>
+			<email>admin@ochc.co.nz; chantal@ochc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Pacific Health Clinic</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>173, Montreal Street, central city, Christchurch, 8011</address>
+			<lat>-43.5325812</lat>
+			<lng>172.6402414</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 377 8159</phone>
+			<url>http://www.pacifichc.co.nz/</url>
+			<email>info@pacifictrust.co.nz; nicole.hill@pacifictrust.co.nz; Osana.Peteru-Peleti@pacifictrust.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Samoan,Tongan]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Papanui Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>438  Papanui Road </address>
+			<lat>-43.5002639</lat>
+			<lng>172.6112826</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 352 9053</phone>
+			<url>http://www.pmc.co.nz/</url>
+			<email>robynk@pmc.co.nz; doctors@pmc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Parklands Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>401 Mairehau Road</address>
+			<lat>-43.4798067</lat>
+			<lng>172.6954698</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 383 0219</phone>
+			<url>http://www.parklandsmc.co.nz/</url>
+			<email>pm@parklandsmc.pegasus.net.nz; reception@parklandsmc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Pegasus Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>52, Pegasus Main Street, Pegasus 7612</address>
+			<lat>-43.3151317</lat>
+			<lng>172.6981193</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 920 4060</phone>
+			<url>http://www.pegasusmedicalcentre.co.nz</url>
+			<email>admin@pegasusmedicalcentre.co.nz; rachel@pegasusmedicalcentre.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Arabic - العربية]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Prestons Road Surgery</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>96 Prestons Road </address>
+			<lat>-43.4743719</lat>
+			<lng>172.6260863</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 352 4875</phone>
+			<url>http://www.prestonsroadmc.co.nz/</url>
+			<email>reception@prestons.pegasus.net.nz; nurses@prestons.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Arabic - العربية]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Promed Doctors</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>115 Sherborne Street</address>
+			<lat>-43.515178</lat>
+			<lng>172.637661</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 379 1112</phone>
+			<url>http://www.promed.health.nz/</url>
+			<email>reception@promed.pegasus.net.nz; mark@promed.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>QE2 Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>204 Bower Avenue</address>
+			<lat>-43.4949821</lat>
+			<lng>172.7111527</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 388 9120</phone>
+			<url>http://www.qe2mc.co.nz/</url>
+			<email>reception@qe2medical.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Queenspark Healthcare</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>164 Queenspark Drive</address>
+			<lat>-43.4513986</lat>
+			<lng>172.6807458</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 383 1444</phone>
+			<url>http://www.queensparkhealthcare.co.nz/</url>
+			<email>graeme.bennetts@queenspark.pegasus.net.nz; reception@queenspark.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Rakaia Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>30 Elizabeth Avenue</address>
+			<lat>-43.75494</lat>
+			<lng>172.0197467</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 303 5002</phone>
+			<url>http://www.rakaiamedical.co.nz/</url>
+			<email>admin@rakaiamedical.co.nz;</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Rangiora Family Doctors</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>31 Blackett Street, Rangiora, 7400</address>
+			<lat>-43.3018567</lat>
+			<lng>172.5930317</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 313 7197</phone>
+			<url>http://www.rangioramedical.co.nz/</url>
+			<email>gail.newton@southlink.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[French - Français,German,Deutsch,Spanish]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Redcliffs Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>184 Main Road </address>
+			<lat>-43.5619789</lat>
+			<lng>172.7383677</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 384 1151</phone>
+			<url>http://www.redcliffsmc.co.nz/</url>
+			<email>admin@redcliffs.pegasus.net.nz; reception@redcliffs.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[German,Deutsch]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Redwood Clinic</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>270 Main North Road</address>
+			<lat>-43.4791693</lat>
+			<lng>172.6170141</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 352 9332</phone>
+			<url>http://www.redwoodclinic.co.nz/</url>
+			<email>rachel@redwood.pegasus.net.nz; reception@redwood.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Riccarton Medical Practice</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>59 Division Street </address>
+			<lat>-43.5329258</lat>
+			<lng>172.5987677</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 348 8711</phone>
+			<url>http://www.riccartonmedical.co.nz/</url>
+			<email>LTucker@riccartonmp.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Rolleston Central Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>9 Masefield Drive</address>
+			<lat>-43.595575</lat>
+			<lng>172.389473</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 347 2614</phone>
+			<url>http://www.rollestonhealth.co.nz</url>
+			<email>info@rollestonhealth.co.nz; philip.schroeder@rollestonhealth.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Rolleston Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>29 Brookside Rd</address>
+			<lat>-43.5946341</lat>
+			<lng>172.3752225</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 347 8848</phone>
+			<url>http://www.rollestonmc.co.nz/</url>
+			<email>vicki@rollmed.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Sealy Street Medical Practice</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>70 Havelock Street</address>
+			<lat>-43.8999155</lat>
+			<lng>171.7454197</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 308 1212</phone>
+			<url>http://www.rcpho.org.nz/practices/sealy-st-medical-practice/</url>
+			<email>sealypractice@sealyst.co.nz; kaye@sealyst.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Spanish]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Selwyn Village Healthcare</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>314 Selwyn Street, Spreydon, Christhcurch, 8024 </address>
+			<lat>-43.548303</lat>
+			<lng>172.622289</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 366 8970</phone>
+			<url>http://www.selwynstreetmc.co.nz/</url>
+			<email>admin@selwyn.pegasus.net.nz; reception@selwyn.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[French - Français]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Settlers Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>8 Settlers Crescent, Ferrymead, christchurch 8023</address>
+			<lat>-43.5591296</lat>
+			<lng>172.702622</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 963 1606</phone>
+			<url>http://www.settlershealth.co.nz/</url>
+			<email>ruth.baker@settlers.pegasus.net.nz; office@settlers.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Samoan]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Shirley Medical Limited</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>11 Marshland Road </address>
+			<lat>-43.5070877</lat>
+			<lng>172.6623593</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 385 3149</phone>
+			<url>http://www.shirleymc.co.nz/</url>
+			<email>pm@shirleymc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Southside Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>10F Newnham Street, Rangiora</address>
+			<lat>-43.3164877</lat>
+			<lng>172.6003441</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 313 5252</phone>
+			<url>http://www.southsidehealth.co.nz/</url>
+			<email>manager@southsidehealth.co.nz; admin@southsidehealth.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>St Albans Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>250 Springfield Road </address>
+			<lat>-43.5094813</lat>
+			<lng>172.6304802</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 355 9119</phone>
+			<url>http://www.stalbansmc.co.nz/</url>
+			<email>reception@stalbans.pegasus.net.nz; sallen@stalbans.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>St Martins Med Practice t/a Health Options</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>79 Wilsons Road </address>
+			<lat>-43.5592743</lat>
+			<lng>172.6548888</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 337 0991</phone>
+			<url>http://www.stmartinsmedicalpractice.co.nz/</url>
+			<email>pm@stmartinsmc.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Straven Medical Rooms</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>12 Straven Road </address>
+			<lat>-43.5285471</lat>
+			<lng>172.6024081</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 348 5749</phone>
+			<url>http://www.stravenmedical.co.nz/</url>
+			<email>admin@straven.pegasus.net.nz; reception_st@straven.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Sumner Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>35 Nayland Street </address>
+			<lat>-43.5689227</lat>
+			<lng>172.7584124</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 326 6288</phone>
+			<url>http://www.sumnerhealthcentre.com</url>
+			<email>reception@sumnerh.pegasus.net.nz; rob@sumnerh.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Te Rawhiti Family Care</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>50 Portsmouth Street</address>
+			<lat>-43.5106093</lat>
+			<lng>172.7012619</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 388 8300</phone>
+			<url>http://www.terawhitifamilycare.co.nz/</url>
+			<email>office@terawhiti.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Templeton Medical </name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>5 Kirk Road  </address>
+			<lat>-43.5532602</lat>
+			<lng>172.4732268</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 349 6716</phone>
+			<url>http://www.templetonmc.co.nz/</url>
+			<email>pete@tempmed.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>The Christchurch Doctors</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>912 Colombo Street</address>
+			<lat>-43.5212846</lat>
+			<lng>172.6368191</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 366 3391</phone>
+			<url>http://www.thechristchurchdoctors.co.nz/</url>
+			<email>admin@chdocs.pegasus.net.nz; pm@chdocs.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Travis Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>225 Travis Road </address>
+			<lat>-43.4946875</lat>
+			<lng>172.7096328</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 388 9686</phone>
+			<url>http://www.travismedical.co.nz/</url>
+			<email>administrator@travismc.pegasus.net.nz; linda@travismc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Union and Community Health Centre (Piki Te Ora)</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>201 Linwood Avenue</address>
+			<lat>-43.531788</lat>
+			<lng>172.671497</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 381 8048</phone>
+			<url>http://www.pikiteora.org.nz/piki-te-ora-all-about-us</url>
+			<email>reception@uchc.org.nz; jeremy@uchc.org.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Persian,Maori,Samoan,Somali – Af-Soomaali,Tagalog- Wikang Tagalog]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Upper Riccarton Medical Centre</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>318 Riccarton Road </address>
+			<lat>-43.5312211</lat>
+			<lng>172.5778399</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 348 3074 or 03 348 7598</phone>
+			<url>http://www.upperriccartonmc.co.nz/</url>
+			<email>helen.t@upperric.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Village Health Lincoln Road</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>92 Lincoln Road </address>
+			<lat>-43.550862</lat>
+			<lng>172.6000633</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 338 8595</phone>
+			<url>http://www.lrm.co.nz/</url>
+			<email>reception@lincolnrd.pegasus.net.nz; karenp@villagehealth.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Waikari Health Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>100 Princes Street&amp;#10;</address>
+			<lat>-42.9665</lat>
+			<lng>172.6831871</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 314 4506</phone>
+			<url>http://www.rcpho.org.nz/practices/waikari-health-centre/</url>
+			<email>admin@waikarihealth.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Waimairi Road Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>203A Waimairi Road</address>
+			<lat>-43.5165372</lat>
+			<lng>172.5716843</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 358 5535</phone>
+			<url>http://www.waimairiroadmc.co.nz/</url>
+			<email>reception@waimairi.pegasus.net.nz; edward.simpson@waimairi.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Waltham Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>83 Waltham Road </address>
+			<lat>-43.5507473</lat>
+			<lng>172.6461616</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 366 1536</phone>
+			<url>http://www.walthammc.co.nz/</url>
+			<email>pauline.crawford@waltham.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Wigram Health</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>67 Skyhawk Road, Wigram, Christchurch 802</address>
+			<lat>-43.543435</lat>
+			<lng>172.5291703</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 349 8613</phone>
+			<url>http://www.wigramhealth.co.nz</url>
+			<email>reception@hornbysurg.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[Mandarin - 官話/官话]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Woodend Medical Centre</name>
+			<category>Practice accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>51 Main Road</address>
+			<lat>-43.3234375</lat>
+			<lng>172.6652561</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 312 7333</phone>
+			<url>http://www.woodendmedical.co.nz</url>
+			<email>info@woodendmedical.co.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Woodham Road Health Care</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>160 Woodham Road </address>
+			<lat>-43.5254823</lat>
+			<lng>172.6719958</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 389 9385</phone>
+			<url>http://www.woodhamroadhc.co.nz/</url>
+			<email>admin@woodhamrdhc.pegasus.net.nz; reception@woodhamrdhc.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Woolston Christian Medical Centre</name>
+			<category>Practice not currently accepting new patients</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>687 Ferry Road</address>
+			<lat>-43.5490223</lat>
+			<lng>172.6829463</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 384 1700</phone>
+			<url>http://www.woolstonchristianmc.co.nz/</url>
+			<email>sophia@woolston.pegasus.net.nz; admin@woolston.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+		<marker>
+			<name>Yaldhurst Family Doctors</name>
+			<category>Limited enrolment - please contact the practice</category>
+			<markertype>http://www.pegasus.health.nz/images/icons/pegasus_marker.png</markertype>
+			<featured>false</featured>
+			<address>129 Yaldhurst Road </address>
+			<lat>-43.5277945</lat>
+			<lng>172.5575179</lng>
+			<distance>0</distance>
+			<fulladdress><![CDATA[]]></fulladdress>
+			<phone>03 343 4034</phone>
+			<url>http://www.yaldhurstfamilydoctors.co.nz/</url>
+			<email>reception@yaldhurst.pegasus.net.nz</email>
+			<facebook></facebook>
+			<twitter></twitter>
+			<tags><![CDATA[]]></tags>
+			<custom1 name="Custom Field 1"><![CDATA[]]></custom1>
+			<custom2 name="Custom Field 2"><![CDATA[]]></custom2>
+			<custom3 name="Custom Field 3"><![CDATA[]]></custom3>
+			<custom4 name="Custom Field 4"><![CDATA[]]></custom4>
+			<custom5 name="Custom Field 5"><![CDATA[]]></custom5>
+		</marker>
+	</markers>
